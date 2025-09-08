@@ -19,3 +19,19 @@ Of course one must remember the legal nature of the topic, and that any SWE work
 This is an attempt at the topic, and it is by no means fully mature, but an interesting experiment to see if something is born out of it.
 
 I am by no means an experienced developer. But I cannot help but appreciate awareness in the work that I do, and a hunch of mine tells me that this will help me towards that end.
+
+## Meta Remarks
+The following remarks or points are not so much the topic itself, but remarks about the topic.
+After creating this ledger, I've actually discovered many notions/concepts similar to what I am trying to do in this ledger.
+An example would be something called: Architectural Decision Records (ADRs).
+This is a concept, and at the same time, there is also an [organization](https://adr.github.io/) behind it, the organization also has [a presence on GitHub](https://github.com/adr).
+
+The website describes what ADRs are, and in fact from it I learned that Microsoft's Azure [adopts this notion and defines it as well](https://learn.microsoft.com/en-us/azure/well-architected/architect-role/architecture-decision-record).
+
+
+It also has a lot of relevant references.
+
+Articles I've particularly appreciated for the new perspectives and insights and opinions and suggestions:
+
+1. https://ozimmer.ch/practices/2023/04/03/ADRCreation.html
+2. https://engineering.atspotify.com/2020/04/when-should-i-write-an-architecture-decision-record
